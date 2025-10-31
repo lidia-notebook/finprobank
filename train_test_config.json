@@ -1,0 +1,11 @@
+{
+  "random_state": 42,
+  "test_size": 0.2,
+  "stratify": true,
+  "n_samples_total": 41176,
+  "n_train": 32940,
+  "n_test": 8236,
+  "positive_rate_total": 0.11266271614532737,
+  "positive_rate_train": 0.11265938069216758,
+  "positive_rate_test": 0.11267605633802817
+}

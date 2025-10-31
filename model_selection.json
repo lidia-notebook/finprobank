@@ -1,0 +1,54 @@
+{
+  "selected_model": "Logistic Regression",
+  "criteria": "Max Recall (primary), PR-AUC tie-break",
+  "metrics_selected_model": {
+    "Model": "Logistic Regression",
+    "Recall (test)": 0.6088362068965517,
+    "Precision (test)": 0.4015636105188344,
+    "F1 (test)": 0.48394004282655245,
+    "PR-AUC (test)": 0.43746708261075434,
+    "ROC-AUC (test)": 0.7949222804956306
+  },
+  "all_models": [
+    {
+      "Model": "Logistic Regression",
+      "Recall (test)": 0.6088362069,
+      "Precision (test)": 0.4015636105,
+      "F1 (test)": 0.4839400428,
+      "PR-AUC (test)": 0.4374670826,
+      "ROC-AUC (test)": 0.7949222805
+    },
+    {
+      "Model": "Gradient Boosting",
+      "Recall (test)": 0.4827586207,
+      "Precision (test)": 0.5039370079,
+      "F1 (test)": 0.4931205283,
+      "PR-AUC (test)": 0.4418506601,
+      "ROC-AUC (test)": 0.7927399767
+    },
+    {
+      "Model": "Decision Tree",
+      "Recall (test)": 0.3448275862,
+      "Precision (test)": 0.2895927602,
+      "F1 (test)": 0.3148057059,
+      "PR-AUC (test)": 0.1825834619,
+      "ROC-AUC (test)": 0.620654119
+    },
+    {
+      "Model": "Random Forest",
+      "Recall (test)": 0.3394396552,
+      "Precision (test)": 0.4075032342,
+      "F1 (test)": 0.3703703704,
+      "PR-AUC (test)": 0.3540661403,
+      "ROC-AUC (test)": 0.7622105793
+    },
+    {
+      "Model": "XGBoost",
+      "Recall (test)": 0.3135775862,
+      "Precision (test)": 0.5585412668,
+      "F1 (test)": 0.4016563147,
+      "PR-AUC (test)": 0.4176392644,
+      "ROC-AUC (test)": 0.7753114059
+    }
+  ]
+}

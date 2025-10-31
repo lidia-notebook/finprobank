@@ -1,0 +1,23 @@
+{
+  "num_cols": [
+    "education_level"
+  ],
+  "cat_cols": [
+    "default",
+    "housing",
+    "loan",
+    "contact",
+    "age_bin",
+    "duration_bin",
+    "campaign_bin",
+    "previous_bin",
+    "emp.var.rate_bin",
+    "cons.price.idx_bin",
+    "cons.conf.idx_bin",
+    "euribor3m_bin",
+    "nr.employed_bin",
+    "age_group",
+    "job_group",
+    "marital_status"
+  ]
+}

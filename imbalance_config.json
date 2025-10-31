@@ -1,0 +1,15 @@
+{
+  "method": "SMOTE",
+  "sampling_strategy": 0.7,
+  "random_state": 42,
+  "original_distribution": {
+    "class_0": 29229,
+    "class_1": 3711
+  },
+  "resampled_distribution": {
+    "class_0": 29229,
+    "class_1": 20460
+  },
+  "positive_rate_before": 0.1127,
+  "positive_rate_after": 0.4118
+}

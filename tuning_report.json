@@ -1,0 +1,8 @@
+{
+  "selected_model": "Logistic Regression",
+  "best_params": {
+    "penalty": "l2",
+    "C": 0.039810717055349734
+  },
+  "best_cv_recall": 0.5915933528836755
+}

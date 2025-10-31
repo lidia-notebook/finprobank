@@ -1,0 +1,11 @@
+{
+  "chosen_threshold": 0.45,
+  "validation_metrics": {
+    "recall": 0.632543,
+    "precision": 0.390033,
+    "f1": 0.482532,
+    "pr_auc": 0.438465,
+    "roc_auc": 0.794956
+  },
+  "note": "Chosen threshold from calibration-tuned Logistic Regression, prioritizing recall for marketing outreach"
+}

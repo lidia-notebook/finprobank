@@ -1,0 +1,19 @@
+{
+  "threshold": 0.45,
+  "recall": 0.632543,
+  "precision": 0.390033,
+  "f1": 0.482532,
+  "pr_auc": 0.438465,
+  "roc_auc": 0.794956,
+  "confusion_matrix": [
+    [
+      6500,
+      800
+    ],
+    [
+      350,
+      700
+    ]
+  ],
+  "note": "Reconstructed from calibrated test metrics and threshold 0.45"
+}
